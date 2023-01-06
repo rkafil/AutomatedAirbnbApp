@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-05T15:34:23 PST" name="Default suite" finished-at="2023-01-05T15:34:28 PST" duration-ms="4753">
+    <groups>
+    </groups>
+    <test started-at="2023-01-05T15:34:23 PST" name="Default test" finished-at="2023-01-05T15:34:28 PST" duration-ms="4753">
+      <class name="com.qa.ActionFeatures.NavigateCareersPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.ActionFeatures.NavigateCareersPage@d86a6f]" started-at="2023-01-05T15:34:21 PST" name="setup" finished-at="2023-01-05T15:34:23 PST" duration-ms="1982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="launchCareersPage()[pri:0, instance:com.qa.ActionFeatures.NavigateCareersPage@d86a6f]" started-at="2023-01-05T15:34:23 PST" name="launchCareersPage" finished-at="2023-01-05T15:34:25 PST" duration-ms="1118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchCareersPage -->
+        <test-method signature="verifyAndClickRoles()[pri:0, instance:com.qa.ActionFeatures.NavigateCareersPage@d86a6f]" started-at="2023-01-05T15:34:25 PST" name="verifyAndClickRoles" finished-at="2023-01-05T15:34:28 PST" duration-ms="3619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAndClickRoles -->
+        <test-method is-config="true" signature="quitAll()[pri:0, instance:com.qa.ActionFeatures.NavigateCareersPage@d86a6f]" started-at="2023-01-05T15:34:28 PST" name="quitAll" finished-at="2023-01-05T15:34:28 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitAll -->
+      </class> <!-- com.qa.ActionFeatures.NavigateCareersPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
